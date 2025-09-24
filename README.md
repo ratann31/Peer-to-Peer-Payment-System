@@ -64,11 +64,8 @@ npm run dev
 
 
 Open http://localhost:3000
- 🎉
+ 
 
-📸 Screenshots
-
-(Add screenshots of homepage, product page, admin dashboard, checkout flow)
 
 📂 Project Structure
 image-ecommerce-main/
